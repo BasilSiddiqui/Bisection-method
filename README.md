@@ -1,7 +1,3 @@
-Here’s a **README** file for your GitHub repository for the **Bisection Method** function. Feel free to customize it further if needed!
-
----
-
 # Bisection Method
 
 The **Bisection Method** is a numerical technique used for finding the root of a continuous function. This repository provides an implementation of the **Bisection Method** to approximate the root of a function `f(x) = 0` within a specified interval `[a, b]` and a given number of iterations `N`.
@@ -129,25 +125,3 @@ if result is not None:
 The boundary is from 1.6180305481319427 to 1.6180351427078247
 Root approximation: 1.6180328454198837
 ```
-
----
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests. Contributions are always welcome!
-
----
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or suggestions, feel free to reach out to **yourname@domain.com**.
-
----
-
-Let me know if you'd like any adjustments! 😊
